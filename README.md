@@ -21,3 +21,9 @@ Replace <threshold> with the minimum reward balance that should trigger the aler
 For example, if you want to set an alert for a reward balance of 10 TIA tokens, you can run the following command: celestiacli itn set-reward-alert celestia1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 10
 This will set up an alert that will send a message to the Discord channel whenever your reward balance reaches or exceeds the specified threshold.
 That's it! You have now set up alerts for your balance of rewards of TIA tokens for the Celestia Network.
+
+
+# Instructions S-B-S:
+1.Install the ITN toolings
+2.Create a Discord webhook
+3. Set up the alert
