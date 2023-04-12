@@ -24,6 +24,6 @@ That's it! You have now set up alerts for your balance of rewards of TIA tokens 
 
 
 # Instructions S-B-S:
-1.Install the ITN toolings
+<div>1.Install the ITN toolings</div>
 2.Create a Discord webhook
 3. Set up the alert
