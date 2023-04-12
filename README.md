@@ -1,4 +1,4 @@
-# DiscordAlerts
+# Discord Alerts Validatore rewards is ready!
 To set up alerts for your balance of rewards of TIA tokens for the Celestia Network, you can use the Celestia Network's ITN toolings.
 
 o set up alerts for your balance of rewards of TIA tokens for the Celestia Network, you can use the Celestia Network's ITN toolings. Here are the step-by-step instructions:
